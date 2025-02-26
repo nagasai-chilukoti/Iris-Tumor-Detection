@@ -130,6 +130,6 @@ st.sidebar.write(
 
 # 📩 Contact Info
 st.sidebar.subheader("📩 Contact Us")
-st.sidebar.write("📧 Email: **dhanshripchaudhari@gmail.com**")
-st.sidebar.write("🌐 Website: [AI Healthcare](https://www.aihealthcare.com)")
+st.sidebar.write("📧 Email: **nagasaichilukoti71@gmail.com**")
+# st.sidebar.write("🌐 Website: [AI Healthcare](https://www.aihealthcare.com)")
 
